@@ -1,4 +1,4 @@
-# My aim is to become cyber security professional 
+# My aim is to become cyber security expert 
 i will be sharing my probgress day by day.
 for context:
 its 30th june and 11:30 pm and for no reason i got thought of doing so..
