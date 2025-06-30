@@ -16,5 +16,11 @@ i watched following tutorial which i found ard good.
 
 - https://www.youtube.com/watch?v=IVquJh3DXUA
 
+- https://www.youtube.com/watch?v=3QhU9jd03a0
 
+- also found a useful blog which teaches about badics which i learnt in school but didn't cared at all
+- https://www.geeksforgeeks.org/computer-networks/basics-computer-networking/
+
+
+  
 i knew mostly all the stuff but still it was important.
